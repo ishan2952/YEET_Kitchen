@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YEET_Kitchen", "YEET_Kitchen\YEET_Kitchen.csproj", "{0F22A768-3EE2-4E85-8496-425784E641A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YEET_Kitchen.DBModels", "YEET_Kitchen.DBModels\YEET_Kitchen.DBModels.csproj", "{86694F66-7AE7-4A38-BBB6-885E6D5B1335}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F22A768-3EE2-4E85-8496-425784E641A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F22A768-3EE2-4E85-8496-425784E641A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F22A768-3EE2-4E85-8496-425784E641A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F22A768-3EE2-4E85-8496-425784E641A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86694F66-7AE7-4A38-BBB6-885E6D5B1335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86694F66-7AE7-4A38-BBB6-885E6D5B1335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86694F66-7AE7-4A38-BBB6-885E6D5B1335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86694F66-7AE7-4A38-BBB6-885E6D5B1335}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92947D2F-2F8B-414A-B9E7-F4BBC5E1EAFC}
+	EndGlobalSection
+EndGlobal
